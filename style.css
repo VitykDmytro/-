@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+    color: rgb(202, 202, 202);
+}
+body{
+    color:rgb(206, 199, 199);
+    background-image: url("bg1.jpg");
+    text-align: left;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    border-radius: 8px;
+}
+a{
+    color:rgb(190, 190, 190);
+}
+h3{
+    text-align: center;
+    font-size: 35px;
+    text-shadow: 0cqmax;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    font-size: 35px;
+}
+.inst {
+    text-decoration: none; 
+}
+.tel{
+    text-decoration: none; 
+}
+.gmail{
+    text-decoration: none;
+}
+
+a img {
+    width: 50px; 
+    height: 50px;
+    border-radius: 50%;
+}
